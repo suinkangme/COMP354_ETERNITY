@@ -1,1 +1,3 @@
-# comp354
+# Comp 354 - ETERNITY Calculator 
+
+
